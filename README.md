@@ -1,10 +1,3 @@
 # iac-cognito-dynamodb-lambda-web-app-auth
 
-
-## Useful commands
-
- * `cdk deploy`      deploy this stack to your default AWS account/region
- * `cdk diff`        compare deployed stack with current state
- * `cdk synth`       emits the synthesized CloudFormation template
- * `go test`         run unit tests
-
+If this helps you, please star the repo and it let's me know to keep sharing such examples.
